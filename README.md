@@ -1,6 +1,6 @@
 ## My71_Project_For_Freedom_Fighter
 ### We ( Android Team of "Advance Professional Development with Industry Attachment" Project ) made this app to encourage peoples for getting knowledge about our liberation war history. In this app, people know our history of 1971. 
-### This app is so user friendly and informative app.
+### This app is so user friendly and informative.
 #### Tecnology used : Expandable List View , Foldable Layout , Gif ImageView , Recycler View and many more android components.
 <br><br><br><br>
 ![Screenshot_2020-04-23-08-29-41-846_com example my71](https://user-images.githubusercontent.com/33654834/80056190-7f1bfe00-8545-11ea-93d3-28d2125e6b92.jpg)
