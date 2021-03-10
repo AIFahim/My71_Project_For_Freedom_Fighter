@@ -1,6 +1,30 @@
-## My71_Project_For_Freedom_Fighter
-### We ( Android Team of "Advance Professional Development with Industry Attachment" Project ) made this app to encourage peoples for getting knowledge about our liberation war history. In this app, people know our history of 1971. 
-### This app is so user friendly and informative.
+# My71 Andriod Application
+![Author](https://img.shields.io/badge/author-AIFahim-orange)
+[![License Badge](https://img.shields.io/badge/license-GPL%203.0-blue)](https://github.com/AIFahim/Camera_Beautify_AI_Face_Recognized_APP/blob/master/LICENSE)
+
+<hr>
+
+## This app encourage peoples by sharing about Bangladesh liberation war's histories. Motive is user-friendly.   
+
+<hr>
+
+<hr>
+
+ Architecture Pattern Used             |   Language Used   |   Technologies used     
+:-------------------------:|:------------------------:|:------------------------:
+MVC | Java | Expandable List View , Foldable Layout , Gif ImageView , Recycler View and ohter android conponets. 
+
+<hr>
+
+
+
+
+
+
+
+
+### We ( Android Team of "Advance Professional Development with Industry Attachment" Project ) made this app to encourage peoples for getting knowledge about Bangladesh liberation war's histories.  
+
 ### Tecnology used : Expandable List View , Foldable Layout , Gif ImageView , Recycler View and more android components.
 <br><br><br><br>
 ![Screenshot_2020-04-23-08-29-41-846_com example my71](https://user-images.githubusercontent.com/33654834/80056190-7f1bfe00-8545-11ea-93d3-28d2125e6b92.jpg)
