@@ -22,4 +22,8 @@ MVC | Java | Expandable List View , Foldable Layout , Gif ImageView , Recycler V
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![Screenshot_2020-04-23-08-30-19-503_com example my71](https://user-images.githubusercontent.com/33654834/80056200-8511df00-8545-11ea-91b9-5e1655b47f35.jpg) |   ![Screenshot_2020-04-23-08-30-53-460_com example my71](https://user-images.githubusercontent.com/33654834/80056201-86430c00-8545-11ea-9018-d5d2bcddcc39.jpg) |     ![Screenshot_2020-04-23-08-31-22-761_com example my71](https://user-images.githubusercontent.com/33654834/80056204-86dba280-8545-11ea-8029-cbb4a4170a7d.jpg) | ![Screenshot_2020-04-23-08-31-22-761_com example my71](https://user-images.githubusercontent.com/33654834/80056205-87743900-8545-11ea-81ba-78c145072337.jpg) |
 
+<hr>
 
+## Maintainers and Developers (Team Alachi)
+This repository is owned and maintained by 
+ * Advanced Professional Tranning And Industry Attachment Project(Govt.) - Android Team . Vendor : Leotech
