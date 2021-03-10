@@ -24,6 +24,6 @@ MVC | Java | Expandable List View , Foldable Layout , Gif ImageView , Recycler V
 
 <hr>
 
-## Maintainers and Developers (Team Alachi)
+## Maintainers and Developers
 This repository is owned and maintained by 
  * Advanced Professional Tranning And Industry Attachment Project(Govt.) - Android Team . Vendor : Leotech
